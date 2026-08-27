@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.4.1"
+  version: "1.4.3"
 
 package:
   name: langchain-nvidia-ai-endpoints
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/langchain-nvidia-ai-endpoints/langchain_nvidia_ai_endpoints-${{ version }}.tar.gz
-  sha256: 8835f7e56d559b370b87164f937c1eb048ab837f25de91598f00555a705c2d16
+  sha256: 8076a99cecb5318e285e47668ab7ec884b0e188aad5b3d37221e6b155f9f536c
 
 build:
   number: 0
